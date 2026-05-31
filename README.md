@@ -1,4 +1,4 @@
-Hier is een professionele, moderne README.md voor jouw AI-Resilience Threat Monitor project:
+AI-Resilience Threat Monitor project:
 
 ```markdown
 # 🛡️ AI-Resilience Threat Monitor
