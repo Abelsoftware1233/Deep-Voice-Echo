@@ -1,4 +1,4 @@
-# AI-Resilience Threat Simulator
+# AI-Resilience Threat monitor 
 
 Real-time AI security assessment dashboard with Flask backend, live system scanning, and SQLite history.
 
